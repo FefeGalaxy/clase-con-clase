@@ -26,6 +26,7 @@ function main(){
     const unaBanda = new Banda(["fefe"], [unAlbum, unAlbum, unAlbum]);
     console.log(unaBanda.members);
     console.log(unaBanda.albums);
-    console.log("soy un cambio");
+    console.log("te cambie todo");
+    
 }
 main();
